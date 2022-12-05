@@ -1,0 +1,8 @@
+manager
+sadikidb46@gmail.com
+12345
+
+
+customer
+1010
+pass:123456
